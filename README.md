@@ -1,31 +1,42 @@
 # 👋 Hi there, I'm Takibul Islam!
 
-Welcome to my GitHub! I'm a self-driven developer with a passion for real-time communication technologies, web development. I'm constantly learning, building, and experimenting with modern technologies — from WebRTC to C#, and from front-end design to backend systems.
+Welcome to my GitHub! I am a **Technical Digital Marketer and Google Shopping Specialist** who bridges the gap between high-level growth strategy and technical execution. 
 
-## 🔧 Technologies & Tools I Use
+Having a strong background in web development, I leverage my coding skills to solve complex marketing challenges—from engineering robust server-side tracking infrastructures to automating large-scale e-commerce product feeds. I don't just run campaigns; I build the technical foundations that make them scale.
 
-- 💻 Languages: `JavaScript` | `C#` | `Python` (basics)
-- 🔌 Real-time Communication: `WebSocket` | `WebRTC`
-- 🧠 Backend: `Node.js` | `Express` | `.NET`
-- 🌐 Frontend: `HTML5` | `CSS3` | `TailwindCSS` | `React` (learning)
-- 🔧 Tools & Platforms: `VS Code` | `Git` | `WSL` | `Postman` | `OBS`
+## 📈 Core Expertise & Technical Marketing Stack
 
-## 🚀 Projects & Focus Areas
+**E-Commerce & Performance Marketing:**
+- 🛍️ `Google Ads` | `Google Merchant Center` (Advanced Feed Rules & Structuring)
+- 📊 `ROAS Optimization` | `Large-Scale Catalog Management` (290k+ SKUs)
+- 🛒 `Shopify` Infrastructure | Headless E-commerce (`Sanity`)
 
-- ✅ Building custom WebSocket chat apps with authentication and client tracking
-- ✅ Developing WebRTC-based real-time audio/video communication tools
-- ✅ Exploring backend systems for scalable and secure applications
+**Advanced Data & Tracking (My Technical Edge):**
+- ⚙️ `GA4` | `Google Tag Manager` (Web & Server-Side Tracking)
+- 🔌 `Conversion APIs (CAPI)` | `First-Party Data Infrastructure`
+- 🛠️ `Data Layer Configuration` | `Marketing Pixel Debugging`
 
+**Marketing Technology & Automation:**
+- 💻 `JavaScript` | `Node.js` (Used for custom tracking scripts & feed manipulation)
+- 🤖 `AI Agents` | `Business & Email Automation`
+- 🌐 `REST APIs` (e.g., GMC API v1 integration) | `Data Architecture`
+
+## 🚀 What I Do Best
+
+- ✅ **Bulletproof Tracking:** Architecting precise, server-side GA4 and GTM setups to ensure zero data loss and perfectly attributed ROAS.
+- ✅ **Advanced GMC Management:** Transitioning businesses to Merchant API v1, building complex feed rules, and resolving tricky, false-positive GMC account suspensions.
+- ✅ **Technical Problem Solving:** Using my development background (JS, APIs, HTML/CSS) to communicate effectively with dev teams, fix broken tracking tags, and automate repetitive marketing workflows.
+- ✅ **Scale & Structure:** Cleaning up and architecting massive data feeds for enterprise-level industrial suppliers.
 
 ## 📫 Let's Connect
 
-I'm always open to learning opportunities and collaboration. Feel free to reach out or check out some of my work!
+I'm always open to networking with e-commerce brands, agencies, and technical teams looking to scale their digital marketing infrastructure.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/takibul-islam/)
 - 📨 Email: takibulislam.ti@gmail.com
 
 ---
 
-> "Code. Learn. Repeat. And never stop building."
+> "Marketing drives growth. Clean data and technical infrastructure make it scale."
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takibulislam&show_icons=true&locale=en&layout=compact" alt="takibulislam" /></p>
